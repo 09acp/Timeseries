@@ -1,2 +1,5 @@
 # Timeseries
-Code &amp; Notes relating to ML projects with TS data
+Code & Notes relating to ML projects working with time-series data.
+
+-----------
+
